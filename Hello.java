@@ -1,4 +1,8 @@
-public class Hello{
+public class Hi{
+	public static void main(String[]args){
+	System.err.println("Hello world");
+
+}
 
 
 
